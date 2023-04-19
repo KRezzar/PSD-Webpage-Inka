@@ -1,0 +1,31 @@
+	#input_email::placeholder {
+			color: white !important;
+		}
+		#first_panel{
+				background-image: linear-gradient(0deg, white 48%, #CDB5A2 0 85%, white 15%);
+		}
+		.fill { 
+			min-height: 100%;
+			height: 100%;
+			overflow-x: hidden;
+		}
+		p{
+		font-size:12px; font-weight: 500;
+			color: #BF8875 !important;
+		}
+		a{
+		font-size:12px; font-weight: 500;
+			color: #BF8875 !important;
+		}
+		.center-text{
+		  text-align: center;
+		 
+		}
+		.center-image {
+		  display: block;
+		  margin-left: auto;
+		  margin-right: auto;
+		}
+		.card{
+		 border:none;
+		}
